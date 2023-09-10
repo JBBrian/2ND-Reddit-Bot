@@ -1,1 +1,2 @@
-# 2ND-Reddit-Bot
+# Quick project
+I follow the Jeep sub and I do my own work on my Jeep. Often times people comment "It's a Jeep thing" instead of actually being helpful/understanding. I made this bot to counteract the unhelpful comments when searching for mechanical help. This bot is just a lighthearted solution that beats everyone to the punch while also being a little humorous. I plan on putting this on a server so it runs 24/7 but I have not decided on which one yet.
